@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BytesParser",
+        "repositoryURL": "https://github.com/dagronf/BytesParser",
+        "state": {
+          "branch": null,
+          "revision": "6596799cc9238fc530fa578a220e6dafdc71520f",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "swift-qrcode-generator",
+        "repositoryURL": "https://github.com/dagronf/swift-qrcode-generator",
+        "state": {
+          "branch": null,
+          "revision": "2b1980b825f08a81ccc762b0c4d17fcde9d5e953",
+          "version": "2.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
